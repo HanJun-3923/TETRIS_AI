@@ -1,0 +1,688 @@
+-----------------FINAL RESULT----------------
+2022-6-28 11:52
+S_height: 100
+S_makingBlank: 2000
+S_onTheBlank: 100
+S_lineClear: 2000 1500 500 -10000
+S_heightDistance: 7
+---
+D_height: 160
+D_makingBlank: 4000
+D_onTheBlank: 200
+D_lineClear: -1000 -2000 -3000 -10000
+D_heightDistance: 3000
+---
+clearedLinesAverage: 522.667
+maxClearedLineAverage: 524
+-----------------FINAL RESULT----------------
+2022-6-28 11:52
+S_height: 120
+S_makingBlank: 2400
+S_onTheBlank: 120
+S_lineClear: 1600 1200 400 -8000
+S_heightDistance: 5.6
+---
+D_height: 192
+D_makingBlank: 4800
+D_onTheBlank: 240
+D_lineClear: -800 -1600 -2400 -8000
+D_heightDistance: 2400
+---
+clearedLinesAverage: 349.222
+maxClearedLineAverage: 525
+-----------------FINAL RESULT----------------
+2022-6-28 11:52
+S_height: 144
+S_makingBlank: 2880
+S_onTheBlank: 144
+S_lineClear: 1280 960 320 -6400
+S_heightDistance: 4.48
+---
+D_height: 230.4
+D_makingBlank: 5760
+D_onTheBlank: 288
+D_lineClear: -640 -1280 -1920 -6400
+D_heightDistance: 1920
+---
+clearedLinesAverage: 272.469
+maxClearedLineAverage: 526
+-----------------FINAL RESULT----------------
+2022-6-28 11:52
+S_height: 172.8
+S_makingBlank: 3456
+S_onTheBlank: 172.8
+S_lineClear: 1024 768 256 -5120
+S_heightDistance: 3.584
+---
+D_height: 276.48
+D_makingBlank: 6912
+D_onTheBlank: 345.6
+D_lineClear: -512 -1024 -1536 -5120
+D_heightDistance: 1536
+---
+clearedLinesAverage: 264.385
+maxClearedLineAverage: 527
+-----------------FINAL RESULT----------------
+2022-6-28 11:52
+S_height: 207.36
+S_makingBlank: 4147.2
+S_onTheBlank: 207.36
+S_lineClear: 819.2 614.4 204.8 -4096
+S_heightDistance: 2.8672
+---
+D_height: 331.776
+D_makingBlank: 8294.4
+D_onTheBlank: 414.72
+D_lineClear: -409.6 -819.2 -1228.8 -4096
+D_heightDistance: 1228.8
+---
+clearedLinesAverage: 263.932
+maxClearedLineAverage: 528
+-----------------FINAL RESULT----------------
+2022-6-28 11:52
+S_height: 248.832
+S_makingBlank: 4976.64
+S_onTheBlank: 248.832
+S_lineClear: 655.36 491.52 163.84 -3276.8
+S_heightDistance: 2.29376
+---
+D_height: 398.131
+D_makingBlank: 9953.28
+D_onTheBlank: 497.664
+D_lineClear: -327.68 -655.36 -983.04 -3276.8
+D_heightDistance: 983.04
+---
+clearedLinesAverage: 264.311
+maxClearedLineAverage: 529
+-----------------FINAL RESULT----------------
+2022-6-28 11:52
+S_height: 298.598
+S_makingBlank: 5971.97
+S_onTheBlank: 298.598
+S_lineClear: 524.288 393.216 131.072 -2621.44
+S_heightDistance: 1.83501
+---
+D_height: 477.757
+D_makingBlank: 11943.9
+D_onTheBlank: 597.197
+D_lineClear: -262.144 -524.288 -786.432 -2621.44
+D_heightDistance: 786.432
+---
+clearedLinesAverage: 264.826
+maxClearedLineAverage: 530
+-----------------FINAL RESULT----------------
+2022-6-28 11:52
+S_height: 358.318
+S_makingBlank: 7166.36
+S_onTheBlank: 358.318
+S_lineClear: 419.43 314.573 104.858 -2097.15
+S_heightDistance: 1.46801
+---
+D_height: 573.309
+D_makingBlank: 14332.7
+D_onTheBlank: 716.636
+D_lineClear: -209.715 -419.43 -629.146 -2097.15
+D_heightDistance: 629.146
+---
+clearedLinesAverage: 265.665
+maxClearedLineAverage: 532
+-----------------FINAL RESULT----------------
+2022-6-28 11:52
+S_height: 429.982
+S_makingBlank: 8599.63
+S_onTheBlank: 429.982
+S_lineClear: 335.544 251.658 83.8861 -1677.72
+S_heightDistance: 1.17441
+---
+D_height: 687.971
+D_makingBlank: 17199.3
+D_onTheBlank: 859.963
+D_lineClear: -167.772 -335.544 -503.316 -1677.72
+D_heightDistance: 503.316
+---
+clearedLinesAverage: 266.222
+maxClearedLineAverage: 533
+-----------------FINAL RESULT----------------
+2022-6-28 11:52
+S_height: 515.978
+S_makingBlank: 10319.6
+S_onTheBlank: 515.978
+S_lineClear: 268.435 201.327 67.1089 -1342.18
+S_heightDistance: 0.939524
+---
+D_height: 825.565
+D_makingBlank: 20639.1
+D_onTheBlank: 1031.96
+D_lineClear: -134.218 -268.435 -402.653 -1342.18
+D_heightDistance: 402.653
+---
+clearedLinesAverage: 266.741
+maxClearedLineAverage: 534
+-----------------FINAL RESULT----------------
+2022-6-28 11:52
+S_height: 619.174
+S_makingBlank: 12383.5
+S_onTheBlank: 619.174
+S_lineClear: 214.748 161.061 53.6871 -1073.74
+S_heightDistance: 0.751619
+---
+D_height: 990.678
+D_makingBlank: 24766.9
+D_onTheBlank: 1238.35
+D_lineClear: -107.374 -214.748 -322.123 -1073.74
+D_heightDistance: 322.123
+---
+clearedLinesAverage: 267.247
+maxClearedLineAverage: 535
+-----------------FINAL RESULT----------------
+2022-6-28 11:52
+S_height: 743.008
+S_makingBlank: 14860.2
+S_onTheBlank: 743.008
+S_lineClear: 171.799 128.849 42.9497 -858.993
+S_heightDistance: 0.601295
+---
+D_height: 1188.81
+D_makingBlank: 29720.3
+D_onTheBlank: 1486.02
+D_lineClear: -85.8993 -171.799 -257.698 -858.993
+D_heightDistance: 257.698
+---
+clearedLinesAverage: 268.5
+maxClearedLineAverage: 538
+-----------------FINAL RESULT----------------
+2022-6-28 11:52
+S_height: 891.61
+S_makingBlank: 17832.2
+S_onTheBlank: 891.61
+S_lineClear: 137.439 103.079 34.3597 -687.195
+S_heightDistance: 0.481036
+---
+D_height: 1426.58
+D_makingBlank: 35664.4
+D_onTheBlank: 1783.22
+D_lineClear: -68.7195 -137.439 -206.158 -687.195
+D_heightDistance: 206.158
+---
+clearedLinesAverage: 269.833
+maxClearedLineAverage: 541
+-----------------FINAL RESULT----------------
+2022-6-28 11:52
+S_height: 1069.93
+S_makingBlank: 21398.6
+S_onTheBlank: 1069.93
+S_lineClear: 109.951 82.4634 27.4878 -549.756
+S_heightDistance: 0.384829
+---
+D_height: 1711.89
+D_makingBlank: 42797.3
+D_onTheBlank: 2139.86
+D_lineClear: -54.9756 -109.951 -164.927 -549.756
+D_heightDistance: 164.927
+---
+clearedLinesAverage: 270.611
+maxClearedLineAverage: 542
+-----------------FINAL RESULT----------------
+2022-6-28 11:52
+S_height: 1283.92
+S_makingBlank: 25678.4
+S_onTheBlank: 1283.92
+S_lineClear: 87.9609 65.9707 21.9902 -439.805
+S_heightDistance: 0.307863
+---
+D_height: 2054.27
+D_makingBlank: 51356.7
+D_onTheBlank: 2567.84
+D_lineClear: -43.9805 -87.9609 -131.941 -439.805
+D_heightDistance: 131.941
+---
+clearedLinesAverage: 271.333
+maxClearedLineAverage: 543
+-----------------FINAL RESULT----------------
+2022-6-28 11:52
+S_height: 1540.7
+S_makingBlank: 30814
+S_onTheBlank: 1540.7
+S_lineClear: 70.3687 52.7766 17.5922 -351.844
+S_heightDistance: 0.246291
+---
+D_height: 2465.12
+D_makingBlank: 61628.1
+D_onTheBlank: 3081.4
+D_lineClear: -35.1844 -70.3687 -105.553 -351.844
+D_heightDistance: 105.553
+---
+clearedLinesAverage: 271.815
+maxClearedLineAverage: 544
+-----------------FINAL RESULT----------------
+2022-6-28 11:52
+S_height: 1848.84
+S_makingBlank: 36976.9
+S_onTheBlank: 1848.84
+S_lineClear: 56.295 42.2212 14.0737 -281.475
+S_heightDistance: 0.197032
+---
+D_height: 2958.15
+D_makingBlank: 73953.7
+D_onTheBlank: 3697.69
+D_lineClear: -28.1475 -56.295 -84.4425 -281.475
+D_heightDistance: 84.4425
+---
+clearedLinesAverage: 272.326
+maxClearedLineAverage: 545
+-----------------FINAL RESULT----------------
+2022-6-28 11:52
+S_height: 2218.61
+S_makingBlank: 44372.2
+S_onTheBlank: 2218.61
+S_lineClear: 45.036 33.777 11.259 -225.18
+S_heightDistance: 0.157626
+---
+D_height: 3549.78
+D_makingBlank: 88744.4
+D_onTheBlank: 4437.22
+D_lineClear: -22.518 -45.036 -67.554 -225.18
+D_heightDistance: 67.554
+---
+clearedLinesAverage: 272.827
+maxClearedLineAverage: 546
+-----------------FINAL RESULT----------------
+2022-6-28 11:52
+S_height: 2662.33
+S_makingBlank: 53246.7
+S_onTheBlank: 2662.33
+S_lineClear: 36.0288 27.0216 9.0072 -180.144
+S_heightDistance: 0.126101
+---
+D_height: 4259.73
+D_makingBlank: 106493
+D_onTheBlank: 5324.67
+D_lineClear: -18.0144 -36.0288 -54.0432 -180.144
+D_heightDistance: 54.0432
+---
+clearedLinesAverage: 273.667
+maxClearedLineAverage: 548
+-----------------FINAL RESULT----------------
+2022-6-28 11:52
+S_height: 3194.8
+S_makingBlank: 63896
+S_onTheBlank: 3194.8
+S_lineClear: 28.823 21.6173 7.20576 -144.115
+S_heightDistance: 0.100881
+---
+D_height: 5111.68
+D_makingBlank: 127792
+D_onTheBlank: 6389.6
+D_lineClear: -14.4115 -28.823 -43.2346 -144.115
+D_heightDistance: 43.2346
+---
+clearedLinesAverage: 274.63
+maxClearedLineAverage: 550
+-----------------FINAL RESULT----------------
+2022-6-28 11:52
+S_height: 3833.76
+S_makingBlank: 76675.2
+S_onTheBlank: 3833.76
+S_lineClear: 23.0584 17.2938 5.76461 -115.292
+S_heightDistance: 0.0807045
+---
+D_height: 6134.02
+D_makingBlank: 153350
+D_onTheBlank: 7667.52
+D_lineClear: -11.5292 -23.0584 -34.5876 -115.292
+D_heightDistance: 34.5876
+---
+clearedLinesAverage: 275.292
+maxClearedLineAverage: 551
+-----------------FINAL RESULT----------------
+2022-6-28 11:52
+S_height: 4600.51
+S_makingBlank: 92010.2
+S_onTheBlank: 4600.51
+S_lineClear: 18.4467 13.8351 4.61169 -92.2337
+S_heightDistance: 0.0645636
+---
+D_height: 7360.82
+D_makingBlank: 184020
+D_onTheBlank: 9201.02
+D_lineClear: -9.22337 -18.4467 -27.6701 -92.2337
+D_heightDistance: 27.6701
+---
+clearedLinesAverage: 276.097
+maxClearedLineAverage: 553
+-----------------FINAL RESULT----------------
+2022-6-28 11:52
+S_height: 5520.61
+S_makingBlank: 110412
+S_onTheBlank: 5520.61
+S_lineClear: 14.7574 11.068 3.68935 -73.787
+S_heightDistance: 0.0516509
+---
+D_height: 8832.98
+D_makingBlank: 220825
+D_onTheBlank: 11041.2
+D_lineClear: -7.3787 -14.7574 -22.1361 -73.787
+D_heightDistance: 22.1361
+---
+clearedLinesAverage: 276.789
+maxClearedLineAverage: 554
+-----------------FINAL RESULT----------------
+2022-6-28 11:52
+S_height: 6624.74
+S_makingBlank: 132495
+S_onTheBlank: 6624.74
+S_lineClear: 11.8059 8.85444 2.95148 -59.0296
+S_heightDistance: 0.0413207
+---
+D_height: 10599.6
+D_makingBlank: 264989
+D_onTheBlank: 13249.5
+D_lineClear: -5.90296 -11.8059 -17.7089 -59.0296
+D_heightDistance: 17.7089
+---
+clearedLinesAverage: 277.643
+maxClearedLineAverage: 556
+-----------------FINAL RESULT----------------
+2022-6-28 11:52
+S_height: 7949.68
+S_makingBlank: 158994
+S_onTheBlank: 7949.68
+S_lineClear: 9.44473 7.08355 2.36118 -47.2237
+S_heightDistance: 0.0330566
+---
+D_height: 12719.5
+D_makingBlank: 317987
+D_onTheBlank: 15899.4
+D_lineClear: -4.72237 -9.44473 -14.1671 -47.2237
+D_heightDistance: 14.1671
+---
+clearedLinesAverage: 278.294
+maxClearedLineAverage: 557
+-----------------FINAL RESULT----------------
+2022-6-28 11:52
+S_height: 9539.62
+S_makingBlank: 190792
+S_onTheBlank: 9539.62
+S_lineClear: 7.55579 5.66684 1.88895 -37.7789
+S_heightDistance: 0.0264453
+---
+D_height: 15263.4
+D_makingBlank: 381585
+D_onTheBlank: 19079.2
+D_lineClear: -3.77789 -7.55579 -11.3337 -37.7789
+D_heightDistance: 11.3337
+---
+clearedLinesAverage: 278.765
+maxClearedLineAverage: 558
+-----------------FINAL RESULT----------------
+2022-6-28 11:52
+S_height: 11447.5
+S_makingBlank: 228951
+S_onTheBlank: 11447.5
+S_lineClear: 6.04463 4.53347 1.51116 -30.2231
+S_heightDistance: 0.0211562
+---
+D_height: 18316.1
+D_makingBlank: 457902
+D_onTheBlank: 22895.1
+D_lineClear: -3.02231 -6.04463 -9.06694 -30.2231
+D_heightDistance: 9.06694
+---
+clearedLinesAverage: 279.33
+maxClearedLineAverage: 559
+-----------------FINAL RESULT----------------
+2022-6-28 11:52
+S_height: 9158.04
+S_makingBlank: 274741
+S_onTheBlank: 13737.1
+S_lineClear: 7.25355 5.44017 1.81339 -36.2678
+S_heightDistance: 0.0253874
+---
+D_height: 14652.9
+D_makingBlank: 549482
+D_onTheBlank: 27474.1
+D_lineClear: -3.62678 -7.25355 -10.8803 -36.2678
+D_heightDistance: 10.8803
+---
+clearedLinesAverage: 279.827
+maxClearedLineAverage: 560
+-----------------FINAL RESULT----------------
+2022-6-28 11:52
+S_height: 7326.43
+S_makingBlank: 329689
+S_onTheBlank: 16484.5
+S_lineClear: 8.70427 6.5282 2.17607 -43.5213
+S_heightDistance: 0.0304649
+---
+D_height: 11722.3
+D_makingBlank: 659379
+D_onTheBlank: 32968.9
+D_lineClear: -4.35213 -8.70427 -13.0564 -43.5213
+D_heightDistance: 13.0564
+---
+clearedLinesAverage: 280.66
+maxClearedLineAverage: 562
+-----------------FINAL RESULT----------------
+2022-6-28 11:52
+S_height: 5861.14
+S_makingBlank: 395627
+S_onTheBlank: 19781.4
+S_lineClear: 10.4451 7.83384 2.61128 -52.2256
+S_heightDistance: 0.0365579
+---
+D_height: 9377.83
+D_makingBlank: 791254
+D_onTheBlank: 39562.7
+D_lineClear: -5.22256 -10.4451 -15.6677 -52.2256
+D_heightDistance: 15.6677
+---
+clearedLinesAverage: 282.333
+maxClearedLineAverage: 566
+-----------------FINAL RESULT----------------
+2022-6-28 11:52
+S_height: 4688.91
+S_makingBlank: 474753
+S_onTheBlank: 23737.6
+S_lineClear: 12.5341 9.40061 3.13354 -62.6707
+S_heightDistance: 0.0438695
+---
+D_height: 7502.26
+D_makingBlank: 949505
+D_onTheBlank: 47475.3
+D_lineClear: -6.26707 -12.5341 -18.8012 -62.6707
+D_heightDistance: 18.8012
+---
+clearedLinesAverage: 284.333
+maxClearedLineAverage: 570
+-----------------FINAL RESULT----------------
+2022-6-28 11:52
+S_height: 3751.13
+S_makingBlank: 569703
+S_onTheBlank: 28485.2
+S_lineClear: 15.041 11.2807 3.76024 -75.2049
+S_heightDistance: 0.0526434
+---
+D_height: 6001.81
+D_makingBlank: 1.13941e+06
+D_onTheBlank: 56970.3
+D_lineClear: -7.52049 -15.041 -22.5615 -75.2049
+D_heightDistance: 22.5615
+---
+clearedLinesAverage: 285.333
+maxClearedLineAverage: 571
+-----------------FINAL RESULT----------------
+2022-6-28 11:52
+S_height: 3000.91
+S_makingBlank: 683644
+S_onTheBlank: 34182.2
+S_lineClear: 18.0492 13.5369 4.51229 -90.2458
+S_heightDistance: 0.0631721
+---
+D_height: 4801.45
+D_makingBlank: 1.36729e+06
+D_onTheBlank: 68364.4
+D_lineClear: -9.02458 -18.0492 -27.0737 -90.2458
+D_heightDistance: 27.0737
+---
+clearedLinesAverage: 286.778
+maxClearedLineAverage: 575
+-----------------FINAL RESULT----------------
+2022-6-28 11:59
+S_height: 100
+S_makingBlank: 2000
+S_onTheBlank: 100
+S_lineClear: 2000 1500 500 -10000
+S_heightDistance: 7
+---
+D_height: 160
+D_makingBlank: 4000
+D_onTheBlank: 200
+D_lineClear: -1000 -2000 -3000 -10000
+D_heightDistance: 3000
+---
+clearedLinesAverage: 521.333
+maxClearedLineAverage: 522
+-----------------FINAL RESULT----------------
+2022-6-28 11:59
+S_height: 120
+S_makingBlank: 1600
+S_onTheBlank: 120
+S_lineClear: 2400 1800 600 -12000
+S_heightDistance: 8.4
+---
+D_height: 192
+D_makingBlank: 3200
+D_onTheBlank: 240
+D_lineClear: -1200 -2400 -3600 -12000
+D_heightDistance: 3600
+---
+clearedLinesAverage: 348.111
+maxClearedLineAverage: 523
+-----------------FINAL RESULT----------------
+2022-6-28 11:59
+S_height: 144
+S_makingBlank: 1280
+S_onTheBlank: 144
+S_lineClear: 2880 2160 720 -14400
+S_heightDistance: 10.08
+---
+D_height: 230.4
+D_makingBlank: 2560
+D_onTheBlank: 288
+D_lineClear: -1440 -2880 -4320 -14400
+D_heightDistance: 4320
+---
+clearedLinesAverage: 265.041
+maxClearedLineAverage: 524
+-----------------FINAL RESULT----------------
+2022-6-28 11:59
+S_height: 172.8
+S_makingBlank: 1024
+S_onTheBlank: 172.8
+S_lineClear: 3456 2592 864 -17280
+S_heightDistance: 12.096
+---
+D_height: 276.48
+D_makingBlank: 2048
+D_onTheBlank: 345.6
+D_lineClear: -1728 -3456 -5184 -17280
+D_heightDistance: 5184
+---
+clearedLinesAverage: 262.446
+maxClearedLineAverage: 525
+-----------------FINAL RESULT----------------
+2022-6-28 11:59
+S_height: 207.36
+S_makingBlank: 819.2
+S_onTheBlank: 207.36
+S_lineClear: 4147.2 3110.4 1036.8 -20736
+S_heightDistance: 14.5152
+---
+D_height: 331.776
+D_makingBlank: 1638.4
+D_onTheBlank: 414.72
+D_lineClear: -2073.6 -4147.2 -6220.8 -20736
+D_heightDistance: 6220.8
+---
+clearedLinesAverage: 262.833
+maxClearedLineAverage: 526
+-----------------FINAL RESULT----------------
+2022-6-28 11:59
+S_height: 248.832
+S_makingBlank: 655.36
+S_onTheBlank: 248.832
+S_lineClear: 4976.64 3732.48 1244.16 -24883.2
+S_heightDistance: 17.4182
+---
+D_height: 398.131
+D_makingBlank: 1310.72
+D_onTheBlank: 497.664
+D_lineClear: -2488.32 -4976.64 -7464.96 -24883.2
+D_heightDistance: 7464.96
+---
+clearedLinesAverage: 263.315
+maxClearedLineAverage: 527
+-----------------FINAL RESULT----------------
+2022-6-28 11:59
+S_height: 298.598
+S_makingBlank: 524.288
+S_onTheBlank: 298.598
+S_lineClear: 5971.97 4478.98 1492.99 -29859.8
+S_heightDistance: 20.9019
+---
+D_height: 477.757
+D_makingBlank: 1048.58
+D_onTheBlank: 597.197
+D_lineClear: -2985.98 -5971.97 -8957.95 -29859.8
+D_heightDistance: 8957.95
+---
+clearedLinesAverage: 263.833
+maxClearedLineAverage: 528
+-----------------FINAL RESULT----------------
+2022-6-28 11:59
+S_height: 238.879
+S_makingBlank: 419.43
+S_onTheBlank: 358.318
+S_lineClear: 4777.57 3583.18 1194.39 -23887.9
+S_heightDistance: 16.7215
+---
+D_height: 382.206
+D_makingBlank: 838.861
+D_onTheBlank: 716.636
+D_lineClear: -2388.79 -4777.57 -7166.36 -23887.9
+D_heightDistance: 7166.36
+---
+clearedLinesAverage: 264.278
+maxClearedLineAverage: 529
+-----------------FINAL RESULT----------------
+2022-6-28 11:59
+S_height: 191.103
+S_makingBlank: 335.544
+S_onTheBlank: 429.982
+S_lineClear: 3822.06 2866.54 955.515 -19110.3
+S_heightDistance: 13.3772
+---
+D_height: 305.765
+D_makingBlank: 671.089
+D_onTheBlank: 859.963
+D_lineClear: -1911.03 -3822.06 -5733.09 -19110.3
+D_heightDistance: 5733.09
+---
+clearedLinesAverage: 264.832
+maxClearedLineAverage: 530
+-----------------FINAL RESULT----------------
+2022-6-28 11:59
+S_height: 152.882
+S_makingBlank: 268.435
+S_onTheBlank: 515.978
+S_lineClear: 3057.65 2293.24 764.412 -15288.2
+S_heightDistance: 10.7018
+---
+D_height: 244.612
+D_makingBlank: 536.871
+D_onTheBlank: 1031.96
+D_lineClear: -1528.82 -3057.65 -4586.47 -15288.2
+D_heightDistance: 4586.47
+---
+clearedLinesAverage: 265.315
+maxClearedLineAverage: 531
